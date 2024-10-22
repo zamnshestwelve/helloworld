@@ -1,3 +1,1 @@
-Prints in 'fuck me....'
-
-very exciting
+prints 'hello world' :c

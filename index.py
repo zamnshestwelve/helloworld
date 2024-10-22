@@ -1,2 +1,2 @@
 #learn to spell, dumbass
-print("fuck me....")
+print("*sigh*....hello world... UGH SO BLAND")
